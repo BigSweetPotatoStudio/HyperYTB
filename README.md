@@ -1,16 +1,15 @@
-# flutter_app
+最近研究WebView，感觉可以套壳YouTube达到后台播放，跳过广告的目的，实现了一个版本。有人要用试试么。
 
-A new Flutter project.
+### 最后
 
-## Getting Started
+安卓可以打包apk安装，苹果我试了AppStore，审核不通过
 
-This project is a starting point for a Flutter application.
+| 名称         | 下载地址                                 | 备注  |
+| ---------- | ------------------------------------ | --- |
+| 软件下载（国内优化） | [下载](https://a.dadigua.top/HyperYTB) |     |
+| 软件下载（国外优化） | [下载](https://a.dadigua.men/HyperYTB) |     |
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image.png](https://www.dadigua.men/static/files/4146c3e981a05afe6a6ecf147efc653b7e1ecdd9fab591206fd6bb20f7740511.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image.png](https://www.dadigua.men/static/files/1021c1165ca16b7ff63769b52c15e787314957883726ec6404c300e8eb12cc3f.png)
