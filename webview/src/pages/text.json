@@ -1,0 +1,289 @@
+{
+  "text": {
+    "default": {
+      "文字转语音": {
+        "zh": "文字转语音",
+        "en": "Text to Speech"
+      },
+      "制作数字人视频": {
+        "zh": "制作数字人视频",
+        "en": "Creating digital human videos"
+      },
+      "数字人直播": {
+        "zh": "数字人直播",
+        "en": "Digital Human Broadcasting"
+      },
+      "更多": {
+        "zh": "更多",
+        "en": "More"
+      },
+      "手机号": {
+        "zh": "手机号",
+        "en": "Mobile number"
+      },
+      "请输入你的手机号": {
+        "zh": "请输入你的手机号",
+        "en": "Please enter your mobile number."
+      },
+      "密码": {
+        "zh": "密码",
+        "en": "Password"
+      },
+      "请输入你的密码": {
+        "zh": "请输入你的密码",
+        "en": "Please enter your password."
+      },
+      "重复密码": {
+        "zh": "重复密码",
+        "en": "Repeat Password"
+      },
+      "请再次输入你的密码": {
+        "zh": "请再次输入你的密码",
+        "en": "Please enter your password again."
+      },
+      "注册": {
+        "zh": "注册",
+        "en": "Sign up"
+      },
+      "返回": {
+        "zh": "返回",
+        "en": "Return"
+      },
+      "登录": {
+        "zh": "登录",
+        "en": "Sign in"
+      },
+      "语音转视频": {
+        "zh": "语音转视频",
+        "en": "Voice to Video Conversion"
+      },
+      "开启直播": {
+        "zh": "开启直播",
+        "en": "Start the live stream."
+      },
+      "这是一段文字内容": {
+        "zh": "这是一段文字内容",
+        "en": "This is a piece of textual content."
+      },
+      "语音角色": {
+        "zh": "语音角色",
+        "en": "Voice Character"
+      },
+      "请选择语音角色": {
+        "zh": "请选择语音角色",
+        "en": "Please select a voice character."
+      },
+      "标题": {
+        "zh": "标题",
+        "en": "Title"
+      },
+      "请输入大小写字母、数字、短横线 - 以及中文字符": {
+        "zh": "请输入大小写字母、数字、短横线 - 以及中文字符",
+        "en": "Please input uppercase and lowercase letters, numbers, hyphens - as well as Chinese characters."
+      },
+      "请输入语音标题": {
+        "zh": "请输入语音标题",
+        "en": "Please enter the audio title."
+      },
+      "文字内容": {
+        "zh": "文字内容",
+        "en": "text"
+      },
+      "请输入文字内容": {
+        "zh": "请输入文字内容",
+        "en": "Please enter text content."
+      },
+      "语言": {
+        "zh": "语言",
+        "en": "Language"
+      },
+      "请选择语言": {
+        "zh": "请选择语言",
+        "en": "Please select a language."
+      },
+      "中文": {
+        "zh": "中文",
+        "en": "Chinese"
+      },
+      "下一步": {
+        "zh": "下一步",
+        "en": "The next step"
+      },
+      "数字人": {
+        "zh": "数字人",
+        "en": "Digital Human"
+      },
+      "请选择数字人": {
+        "zh": "请选择数字人",
+        "en": "Please select a digital persona."
+      },
+      "语音资源": {
+        "zh": "语音资源",
+        "en": "Voice Resources"
+      },
+      "请选择语音资源": {
+        "zh": "请选择语音资源",
+        "en": "Please select an audio resource."
+      },
+      "请输入视频标题": {
+        "zh": "请输入视频标题",
+        "en": "Please enter the title of the video."
+      },
+      "视频资源": {
+        "zh": "视频资源",
+        "en": "Video Resources"
+      },
+      "请选择视频": {
+        "zh": "请选择视频",
+        "en": "Please select a video."
+      },
+      "直播设置": {
+        "zh": "直播设置",
+        "en": "LiveSetting"
+      },
+      "随机": {
+        "zh": "随机",
+        "en": "Random"
+      },
+      "顺序": {
+        "zh": "顺序",
+        "en": "Sequence"
+      },
+      "打开obs": {
+        "zh": "打开obs",
+        "en": "Open OBS."
+      },
+      "敬请期待": {
+        "zh": "敬请期待",
+        "en": "Please stay tuned."
+      },
+      "这是一个文字转语音的工具": {
+        "zh": "这是一个文字转语音的工具",
+        "en": "This is a tool for converting text into speech."
+      },
+      "使用数字人视频+obs虚拟摄像头直播": {
+        "zh": "使用数字人视频+obs虚拟摄像头直播",
+        "en": "Broadcasting live using a digital human video plus OBS virtual camera."
+      },
+      "请选择": {
+        "zh": "请选择",
+        "en": "Please make a selection."
+      },
+      "图灵AI": {
+        "zh": "图灵AI",
+        "en": "Turing AI"
+      },
+      "未登录": {
+        "zh": "未登录",
+        "en": "Not signed in"
+      },
+      "这是一个制作数字人视频的工具": {
+        "zh": "这是一个制作数字人视频的工具",
+        "en": "This is a tool for creating digital human videos."
+      },
+      "test": {
+        "zh": "test",
+        "en": "Test"
+      },
+      "生成语音": {
+        "zh": "生成语音",
+        "en": "Generate Voice"
+      },
+      "生成视频": {
+        "zh": "生成视频",
+        "en": "Create a video"
+      },
+      "生成": {
+        "zh": "生成",
+        "en": "Generation"
+      },
+      "直播历史": {
+        "zh": "直播历史",
+        "en": "Live Streaming History"
+      },
+      "请选择直播历史": {
+        "zh": "请选择直播历史",
+        "en": "Please select from the live broadcast history."
+      },
+      "进度": {
+        "zh": "进度",
+        "en": "Progress"
+      },
+      "没有账号点击去注册": {
+        "zh": "没有账号点击去注册",
+        "en": "Click here to register if you don't have an account."
+      },
+      "请输入 11 位手机号": {
+        "zh": "请输入 11 位手机号",
+        "en": "Please enter an 11-digit phone number."
+      },
+      "无权限": {
+        "zh": "无权限",
+        "en": "No authority"
+      },
+      "关闭obs": {
+        "zh": "关闭obs",
+        "en": "Turn off OBS."
+      },
+      "直播": {
+        "zh": "直播",
+        "en": "Live streaming"
+      },
+      "语音来源": {
+        "zh": "语音来源",
+        "en": "Source of Voice"
+      },
+      "直接生成": {
+        "zh": "直接生成",
+        "en": "Directly Generate"
+      },
+      "上传语音": {
+        "zh": "上传语音",
+        "en": "Upload Voice"
+      },
+      "请上传语音资源": {
+        "zh": "请上传语音资源",
+        "en": "Please upload the audio resources."
+      },
+      "选择语音": {
+        "zh": "选择语音",
+        "en": "Select Voice"
+      },
+      "上传": {
+        "zh": "上传",
+        "en": "Upload"
+      },
+      "加载": {
+        "zh": "加载",
+        "en": "load"
+      },
+      "结果": {
+        "zh": "结果",
+        "en": "Result"
+      },
+      "请先生成视频": {
+        "zh": "请先生成视频",
+        "en": "Please proceed with creating the video first."
+      },
+      "请先加载视频": {
+        "zh": "请先加载视频",
+        "en": "Please load the video first."
+      },
+      "打开文件": {
+        "zh": "打开文件",
+        "en": "Open the file."
+      },
+      "另存为": {
+        "zh": "另存为",
+        "en": "Save As"
+      },
+      "添加文字内容": {
+        "zh": "添加文字内容",
+        "en": "Add text content"
+      }
+    },
+    "app": {
+
+    }
+  }
+}

@@ -1,0 +1,75 @@
+PODS:
+  - app_settings (5.1.1):
+    - Flutter
+  - auto_orientation (0.0.1):
+    - Flutter
+  - awesome_notifications (0.10.0):
+    - Flutter
+    - IosAwnCore (~> 0.10.0)
+  - connectivity_plus (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - Flutter (1.0.0)
+  - flutter_inappwebview_ios (0.0.1):
+    - Flutter
+    - flutter_inappwebview_ios/Core (= 0.0.1)
+    - OrderedSet (~> 6.0.3)
+  - flutter_inappwebview_ios/Core (0.0.1):
+    - Flutter
+    - OrderedSet (~> 6.0.3)
+  - IosAwnCore (0.10.0)
+  - OrderedSet (6.0.3)
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - url_launcher_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - app_settings (from `.symlinks/plugins/app_settings/ios`)
+  - auto_orientation (from `.symlinks/plugins/auto_orientation/ios`)
+  - awesome_notifications (from `.symlinks/plugins/awesome_notifications/ios`)
+  - connectivity_plus (from `.symlinks/plugins/connectivity_plus/darwin`)
+  - Flutter (from `Flutter`)
+  - flutter_inappwebview_ios (from `.symlinks/plugins/flutter_inappwebview_ios/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+
+SPEC REPOS:
+  trunk:
+    - IosAwnCore
+    - OrderedSet
+
+EXTERNAL SOURCES:
+  app_settings:
+    :path: ".symlinks/plugins/app_settings/ios"
+  auto_orientation:
+    :path: ".symlinks/plugins/auto_orientation/ios"
+  awesome_notifications:
+    :path: ".symlinks/plugins/awesome_notifications/ios"
+  connectivity_plus:
+    :path: ".symlinks/plugins/connectivity_plus/darwin"
+  Flutter:
+    :path: Flutter
+  flutter_inappwebview_ios:
+    :path: ".symlinks/plugins/flutter_inappwebview_ios/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+
+SPEC CHECKSUMS:
+  app_settings: 017320c6a680cdc94c799949d95b84cb69389ebc
+  auto_orientation: 102ed811a5938d52c86520ddd7ecd3a126b5d39d
+  awesome_notifications: dd5518ff1c80be03d4f1c40f04da9d9cc2a37af5
+  connectivity_plus: 4c41c08fc6d7c91f63bc7aec70ffe3730b04f563
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_inappwebview_ios: 6f63631e2c62a7c350263b13fa5427aedefe81d4
+  IosAwnCore: 653786a911089012092ce831f2945cd339855a89
+  OrderedSet: e539b66b644ff081c73a262d24ad552a69be3a94
+  path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
+  url_launcher_ios: 5334b05cef931de560670eeae103fd3e431ac3fe
+
+PODFILE CHECKSUM: b409706bbaece8e019c17703f6be6543fc6b33fb
+
+COCOAPODS: 1.15.2
